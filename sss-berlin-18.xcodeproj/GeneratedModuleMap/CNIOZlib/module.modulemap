@@ -1,0 +1,4 @@
+module CNIOZlib {
+    umbrella "/Users/local/Developer/server-side-swift/sss-berlin-18/.build/checkouts/swift-nio.git-6279559176457367922/Sources/CNIOZlib/include"
+    export *
+}
